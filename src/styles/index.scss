@@ -75,12 +75,17 @@ body {
     padding: 10px 10px;
     display: flex;
     box-sizing: border-box;
+    &-rotate {
+        transform: rotate(180deg);
+    }
     &-nav {
         background-color: rgb(255, 255, 255);
         width: 200px;
         height: 10px;
         margin-right: 10px;
         display: flex;
+        justify-content: center;
+        cursor: pointer;
         &__body {
             width: 30px;
             height: 30px;

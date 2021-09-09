@@ -109,7 +109,7 @@ export const Content = () => {
                         )
                     })}
                 </div>
-                <Modal modalActive={modalActive} currentId={cu} setModalActive={setModalActive}/>
+                <Modal modalActive={modalActive} currentId={currentId} setModalActive={setModalActive}/>
                 
             </div>
             </div>

@@ -4,9 +4,9 @@ export const Panel = ({setSearch}) => {
     return (
         <div className='panel'>
             <div className="panel-nav">
-                {/* <div className="panel-nav__body"><img width='13px' src="https://i.postimg.cc/3xCZkkdq/271218.png" alt="" /></div>
-                <div className="panel-nav__body"><img width='13px' src="https://i.postimg.cc/3xCZkkdq/271218.png" alt="" /></div>
-                <div className="panel-nav__body"><img width='13px' src="https://i.postimg.cc/3xCZkkdq/271218.png" alt="" /></div> */}
+                <div className="panel-nav__body"><img className='panel-rotate' width='13px' src="https://i.postimg.cc/9X452fTj/next.png" alt="" /></div>
+                <div className="panel-nav__body"><img width='20px' src="https://i.postimg.cc/yYyfZ3ZR/Folder-Open.png" alt="" /></div>
+                <div className="panel-nav__body"><img width='13px' src="https://i.postimg.cc/9X452fTj/next.png" alt="" /></div>
             </div>
             <div className="panel-rout">
                 <img width='18px' src="https://i.postimg.cc/yYyfZ3ZR/Folder-Open.png" alt="" />
