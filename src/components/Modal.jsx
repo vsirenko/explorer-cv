@@ -107,7 +107,8 @@ export const Modal = ({modalActive,setModalActive, currentId}) => {
                     <p>Before that, I worked as a barista for a very long time, let's miss this =D</p>
                     <p>Renklod LLD - from May 2021 to today | FrontEnd developer</p>
                     <p>About work: Editing current projects, their visual part, adding new modules, layout templates, writing a project on React</p>
-                    
+                    <p>Pet roject: <a href='https://redmond-app-pet.vercel.app/'>Link</a> It has 2 versions, so watch from your phone too</p>
+                    <p>And it's not finished yet!</p>
                     </>
                 }
 
@@ -117,6 +118,7 @@ export const Modal = ({modalActive,setModalActive, currentId}) => {
                     <p className='modal-title'>email: the.sirenko@gmail.com</p>
                     <p className='modal-title'>telegram: @vova_s1r</p>
                     <p className='modal-title'>Linkedin: <a href='https://www.linkedin.com/in/vladimir-sirenko-89b5931a4/'>Link</a></p>
+                    
 
                     </>
                 }
